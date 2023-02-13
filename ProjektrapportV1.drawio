@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T19:52:06.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.20" etag="dkh81Nurobcu2qK0j5Jr" type="github"><diagram name="Page-1" id="HFvslnS4SGAWe5t_P9Wt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-13T20:15:56.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5iMxUwVPdpXi16bBMaoV" version="20.8.20" type="github">
+  <diagram name="Page-1" id="HFvslnS4SGAWe5t_P9Wt">
+    <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gmbm1KEMPBaouO_KgwgB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gmbm1KEMPBaouO_KgwgB-1" target="Gmbm1KEMPBaouO_KgwgB-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="265" />
+              <mxPoint x="325" y="200" />
+              <mxPoint x="423" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmbm1KEMPBaouO_KgwgB-1" value="Oculus Hårdvara" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmbm1KEMPBaouO_KgwgB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gmbm1KEMPBaouO_KgwgB-2" target="Gmbm1KEMPBaouO_KgwgB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmbm1KEMPBaouO_KgwgB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.008;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gmbm1KEMPBaouO_KgwgB-2" target="Gmbm1KEMPBaouO_KgwgB-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="200" />
+              <mxPoint x="585" y="200" />
+              <mxPoint x="585" y="272" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmbm1KEMPBaouO_KgwgB-2" value="OpenXR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="245" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmbm1KEMPBaouO_KgwgB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gmbm1KEMPBaouO_KgwgB-3" target="Gmbm1KEMPBaouO_KgwgB-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="295" />
+              <mxPoint x="580" y="298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gmbm1KEMPBaouO_KgwgB-3" value="Unity applikation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="250" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmbm1KEMPBaouO_KgwgB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.014;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gmbm1KEMPBaouO_KgwgB-4" target="Gmbm1KEMPBaouO_KgwgB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmbm1KEMPBaouO_KgwgB-4" value="Användare" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="255" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gmbm1KEMPBaouO_KgwgB-9" value="Data från hårdvaran matas in&lt;br&gt;till applikationen via OpenXR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="155" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
